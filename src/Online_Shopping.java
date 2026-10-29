@@ -189,8 +189,6 @@ Scanner sc = new Scanner(System.in);
 		
 		totalBill = price * quantity;
 		
-		//System.out.println("Total Bill: " + totalBill);
-		
 		double discount;
 		if(totalBill > 3000)
 		{
